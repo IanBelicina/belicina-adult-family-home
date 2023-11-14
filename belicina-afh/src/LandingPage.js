@@ -8,7 +8,7 @@ const LandingPage = () => {
 
             {/* Hero Section */}
             <Row className="py-5" style={{ backgroundImage: 'url(/example.png)' }}>
-                <Col>
+                <Col className = "text-center">
                     <h1>Creative Design</h1>
                     <p>Loriam ipsum dolor information</p>
                     <Button>Learn More</Button>
