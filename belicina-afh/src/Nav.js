@@ -13,6 +13,12 @@ function Nav() {
             <li className="nav-item">
               <NavLink className="nav-link" to="rooms/">Rooms</NavLink>
             </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="about/">About</NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="landing/">Landing Test</NavLink>
+            </li>
             {/* Add more NavLink elements for additional navigation items */}
           </ul>
         </div>
